@@ -1,6 +1,6 @@
 # lndpnr Theme
 
-![lndpnr theme preview](https://github.com/leaandropinheiro/lndpnr/blob/main/assets/lndpnr-preview.png)
+![lndpnr theme preview](https://github.com/user-attachments/assets/368e13a5-43b3-4062-9d0b-37f3b61af67e)
 
 A dark theme for Zed editor by Leandro Pinheiro Rosa.
 
