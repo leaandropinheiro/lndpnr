@@ -161,9 +161,11 @@
         "conflict": "#D4976C",
         "conflict.background": "#D4976C1f",
         "conflict.border": "#D4976C",
+
         "created": "#A1FFCD",
         "created.background": "#A1FFCD1F",
         "created.border": "#A1FFCD",
+
         "deleted": "#FFA1A4",
         "deleted.background": "#120B0BFF",
         "deleted.border": "#FFA1A4",
