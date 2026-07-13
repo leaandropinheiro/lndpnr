@@ -1,12 +1,11 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "name": "lndpnr blk",
+  "name": "lndpnr",
   "author": "Leandro Pinheiro Rosa",
-  "title": "lndpnr blk",
+  "title": "lndpnr",
   "description": "black theme.",
   "themes": [
     {
-      "name": "lndpnr blk",
+      "name": "lndpnr",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -45,7 +44,7 @@
         "ghost_element.active": "#11111190",
         "ghost_element.selected": "#11111190",
         "ghost_element.disabled": "#11111190",
-        "ghost_element.background": "#",
+        "ghost_element.background": "#00000020",
 
         "text": "#ADADADFF",
         "text.muted": "#DEDCD590",
@@ -62,7 +61,7 @@
         "status_bar.background": "#000",
         "title_bar.background": "#000",
         "title_bar.inactive_background": "#00000099",
-        "toolbar.background": "#00000010",
+        "toolbar.background": "#00000099",
 
         "tab_bar.background": "#000",
         "tab.inactive_background": "#000",
@@ -104,7 +103,7 @@
         "editor.active_line_number": "#E7E9EA",
         "editor.hover_line_number": "#E7E9EA",
 
-        "editor.invisible": "#444",
+        "editor.invisible": "#111",
         "editor.document_highlight.read_background": "#111",
         "editor.document_highlight.write_background": "#111",
         "editor.document_highlight.bracket_background": "#111",
@@ -165,59 +164,52 @@
         "created": "#A1FFCD",
         "created.background": "#A1FFCD1F",
         "created.border": "#A1FFCD",
+
         "deleted": "#FFA1A4",
-        "deleted.background": "#000",
+        "deleted.background": "#120B0BFF",
         "deleted.border": "#FFA1A4",
 
         "hidden": "#DEDCD550",
         "hidden.background": "#DEDCD5501F",
         "hidden.border": "#DEDCD550",
-
         "hint": "#555",
         "hint.background": "#A1D3FF1f",
         "hint.border": "#A1D3FF",
-
         "ignored": "#DEDCD550",
         "ignored.background": "#DEDCD5501F",
         "ignored.border": "#DEDCD550",
-
         "info": "#A1D3FF",
-        "info.background": "#000",
+        "info.background": "#111",
         "info.border": "#A1D3FF",
-
         "modified": "#A1D3FF",
         "modified.background": "#A1D3FF1f",
         "modified.border": "#A1D3FF",
-
         "predictive": "#555",
         "predictive.background": "#5554D",
         "predictive.border": "#555",
-
         "renamed": "#A1FFCD",
         "renamed.background": "#A1FFCD1F",
         "renamed.border": "#A1FFCD",
 
         "success": "#A1FFCD",
-        "success.background": "#000",
+        "success.background": "#A1FFCD1F",
         "success.border": "#A1FFCD",
 
         "warning": "#D4976C",
-        "warning.background": "#000",
+        "warning.background": "#D4976C1f",
         "warning.border": "#D4976C",
 
         "error": "#FFA1A4",
-        "error.background": "#000",
+        "error.background": "#120B0BFF",
         "error.border": "#FFA1A4",
 
         "unreachable": "#DEDCD550",
         "unreachable.background": "#DEDCD5504D",
         "unreachable.border": "#DEDCD550",
-
         "version_control.added": "#A1FFCD",
         "version_control.modified": "#A1D3FF",
         "version_control.deleted": "#FFA1A4",
         "version_control.renamed": "#FFFED4",
-
         "version_control.conflict": "#D4976C",
         "version_control.conflict_marker.ours": "#A1FFCD4D",
         "version_control.conflict_marker.theirs": "#A1D3FF4D",
@@ -227,7 +219,7 @@
           {
             "cursor": "#E7E9EA",
             "background": "#E7E9EA",
-            "selection": "#33333350"
+            "selection": "#22222270"
           },
           {
             "cursor": "#D4976C",
@@ -293,9 +285,9 @@
 
           "punctuation": { "color": "#555" },
           "punctuation.bracket": { "color": "#555" },
-          "punctuation.delimiter": { "color": "#999" },
+          "punctuation.delimiter": { "color": "#555" },
           "punctuation.list_marker": { "color": "#555" },
-          "punctuation.special": { "color": "#999" },
+          "punctuation.special": { "color": "#555" },
 
           "string.escape": { "color": "#FFFED4" },
           "string.regex": { "color": "#FFA1A4" },
