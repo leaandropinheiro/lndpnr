@@ -1,7 +1,7 @@
 id = "lndpnr-theme"
 name = "lndpnr"
 schema_version = 1
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Leandro Pinheiro Rosa"]
 repository = "https://github.com/leaandropinheiro/lndpnr"
 description = "lndpnr dark theme"
